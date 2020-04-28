@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/deploy_react/static/css/main.7d967c12.chunk.css",
+    "main.js": "/deploy_react/static/js/main.78b3c7c4.chunk.js",
+    "main.js.map": "/deploy_react/static/js/main.78b3c7c4.chunk.js.map",
+    "runtime-main.js": "/deploy_react/static/js/runtime-main.2c80c50e.js",
+    "runtime-main.js.map": "/deploy_react/static/js/runtime-main.2c80c50e.js.map",
+    "static/css/2.32e6b33e.chunk.css": "/deploy_react/static/css/2.32e6b33e.chunk.css",
+    "static/js/2.75c2b094.chunk.js": "/deploy_react/static/js/2.75c2b094.chunk.js",
+    "static/js/2.75c2b094.chunk.js.map": "/deploy_react/static/js/2.75c2b094.chunk.js.map",
+    "index.html": "/deploy_react/index.html",
+    "precache-manifest.8c52d767b228e804df6e07043e15bb4f.js": "/deploy_react/precache-manifest.8c52d767b228e804df6e07043e15bb4f.js",
+    "service-worker.js": "/deploy_react/service-worker.js",
+    "static/css/2.32e6b33e.chunk.css.map": "/deploy_react/static/css/2.32e6b33e.chunk.css.map",
+    "static/css/main.7d967c12.chunk.css.map": "/deploy_react/static/css/main.7d967c12.chunk.css.map",
+    "static/js/2.75c2b094.chunk.js.LICENSE.txt": "/deploy_react/static/js/2.75c2b094.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/deploy_react/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/bootstrap.min.css": "/deploy_react/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c80c50e.js",
+    "static/css/2.32e6b33e.chunk.css",
+    "static/js/2.75c2b094.chunk.js",
+    "static/css/main.7d967c12.chunk.css",
+    "static/js/main.78b3c7c4.chunk.js"
+  ]
+}
